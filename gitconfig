@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = wilson-george@hotmail.com
+	name = George Wilson
